@@ -28,3 +28,8 @@ let isLogIn=true;
 // console.log(typeof age) 
 console.log(typeof null);// object 
 console.log(typeof undefined);
+
+
+
+
+
